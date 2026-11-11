@@ -1,0 +1,6 @@
+{
+  "name": "AUTOGO - Smart Auto Booking & Fleet Management",
+  "description": "Smart auto-rickshaw booking and fleet management platform for business owners, drivers, and customers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
